@@ -1,6 +1,8 @@
 terraform/terraform.tfstate
 terraform/terraform.tfstate.backup
 
+.terraform/*
+
 .venv/*
 __pycache__/*
 
